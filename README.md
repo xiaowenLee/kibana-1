@@ -1,2 +1,1 @@
-# kibana
-kibana installation
+kibana installation using .deb package
